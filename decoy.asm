@@ -1,6 +1,6 @@
         SECTION .data
 
-        msg db "Hello, world9!",0xa ; 
+        msg db "Hello, world10!",0xa ; 
         len equ $ - msg
 
         SECTION .text
